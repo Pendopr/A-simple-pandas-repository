@@ -6,9 +6,8 @@ This is a simple project on how to create a panda Data Frame from a dictionary.T
 ## Installations
 [How to install pandas](https://pandas.pydata.org/docs/getting_started/install.html) 
 
-
-
-
+## Screenshots
+![image desc](./Pics/pic1.png)
 
 
 ## Author
